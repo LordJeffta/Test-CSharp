@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test-CSharp", "Test-CSharp\Test-CSharp.csproj", "{F4529CD1-2159-4006-AE4B-EFDC8B804D49}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTOs", "DTOs\DTOs.csproj", "{589F600E-A2BF-4835-8C2C-451893D43131}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{F4529CD1-2159-4006-AE4B-EFDC8B804D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4529CD1-2159-4006-AE4B-EFDC8B804D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4529CD1-2159-4006-AE4B-EFDC8B804D49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{589F600E-A2BF-4835-8C2C-451893D43131}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{589F600E-A2BF-4835-8C2C-451893D43131}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{589F600E-A2BF-4835-8C2C-451893D43131}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{589F600E-A2BF-4835-8C2C-451893D43131}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
